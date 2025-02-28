@@ -16,7 +16,7 @@ There has recently been an increase in traffic flow in the area, this has prompt
 # Data Source
 ###### The data was gotten from Kaggle. The data contains the following column names: 
 
-![Create Table](https://github.com/bamidelestephen/URBAN-TRAFFIC-/blob/main/Assets/Image/Traffic%20Dataset.JPG)
+# The following are information on the dataset
 ###### urban-traffic-density
 ###### City: Name of the city (e.g., MetropolisX, SolarisVille).
 ###### Vehicle Type: Type of vehicle (e.g., Car, Flying Car).
@@ -30,7 +30,11 @@ There has recently been an increase in traffic flow in the area, this has prompt
 ###### Random Event Occurred: Indicator if a random event (e.g., accidents, road closures) occurred.
 ###### Traffic Density: Density of traffic at the time of recording.
 
+
 # Data Cleaning
+###### Loading the data in Excel
+![Create Table](https://github.com/bamidelestephen/URBAN-TRAFFIC-/blob/main/Assets/Image/Traffic%20Dataset.JPG)
+
 ###### The data was loaded and cleaned in Excel. The following are steps I took to ensure the data is clean for analysis:
 1.	The dataset does not contain blank cells
 
