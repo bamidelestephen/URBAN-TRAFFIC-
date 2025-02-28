@@ -1,7 +1,7 @@
 # URBAN-TRAFFIC-
 # Analyzing Traffic Flow in an Urban Area 
 # Table of contents
--[Introduction](#Introduction)
+- [Introduction](#Introduction)
 - [Objectives](#Objectives)
 - [Data Source](#Data-Source)
 - [Data cleaning](#Data-cleaning)
