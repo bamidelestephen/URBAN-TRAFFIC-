@@ -33,7 +33,10 @@ There has recently been an increase in traffic flow in the area, this has prompt
 # Data Cleaning
 ###### The data was loaded and cleaned in Excel. The following are steps I took to ensure the data is clean for analysis:
 1.	The dataset does not contain blank cells
-2.	There were no duplicate values found in the data.
+
+   ![Create Table](https://github.com/bamidelestephen/URBAN-TRAFFIC-/blob/main/Assets/Image/Blank%20Traffic.JPG)
+   
+3.	There were no duplicate values found in the data.
 
   ![Create Table](https://github.com/bamidelestephen/URBAN-TRAFFIC-/blob/main/Assets/Image/duplicate.JPG)
 4.	Replaced numerical data in Is Peak Hour to the text equivalent e.g Daytime, Night.
