@@ -14,7 +14,9 @@
 There has recently been an increase in traffic flow in the area, this has prompted the necessary authority to employ the service of an organization to help them figure out the factors responsible for this surge in traffic conditions across the various areas of the city. 
 
 # Data Source
-###### The data was gotten from Kaggle. The data contains the following column names:
+###### The data was gotten from Kaggle. The data contains the following column names: 
+
+![Create Table](https://github.com/bamidelestephen/URBAN-TRAFFIC-/blob/main/Assets/Image/duplicate.JPG)
 ###### urban-traffic-density
 ###### City: Name of the city (e.g., MetropolisX, SolarisVille).
 ###### Vehicle Type: Type of vehicle (e.g., Car, Flying Car).
