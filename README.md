@@ -55,6 +55,8 @@ There has recently been an increase in traffic flow in the area, this has prompt
 From the Pivot Table, Car has the least number while Autonomous vehicle has the highest number of vehicle count.
 
 2.	Traffic flow pattern:
+
+![Create Table](https://github.com/bamidelestephen/URBAN-TRAFFIC-/blob/main/Assets/Image/QUESTION%202%20TRAFFIC.JPG)
  
 Traffic flow on the weekdays is a bit at relatively equal levels compared to weekends where it seems there are lot of people making use of the roads in those particular days. There is a sharp increase in traffic flows on the weekends and traffic flow goes down sharply at the start of a new week.
  
