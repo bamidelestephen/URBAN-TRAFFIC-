@@ -33,10 +33,12 @@ There has recently been an increase in traffic flow in the area, this has prompt
 # Data Cleaning
 ###### The data was loaded and cleaned in Excel. The following are steps I took to ensure the data is clean for analysis:
 1.	The dataset does not contain blank cells
-2.	There were no duplicate values found in the data. 
-3.	Replaced numerical data in Is Peak Hour to the text equivalent e.g Daytime, Night.
-4.	Replaced numerical data in Random Event Occurred to the text equivalent e.g True, False.
-5.	Rounded up the values in Energy Consumption to one decimal place.
+2.	There were no duplicate values found in the data.
+
+  ![Create Table](https://github.com/bamidelestephen/URBAN-TRAFFIC-/blob/main/Assets/Image/duplicate.JPG)
+4.	Replaced numerical data in Is Peak Hour to the text equivalent e.g Daytime, Night.
+5.	Replaced numerical data in Random Event Occurred to the text equivalent e.g True, False.
+6.	Rounded up the values in Energy Consumption to one decimal place.
 # Question
 1.	Use pivot tables to display vehicle counts.
 2.	Use pivot tables to display traffic flow patterns.
