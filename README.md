@@ -49,6 +49,8 @@ There has recently been an increase in traffic flow in the area, this has prompt
 
 # Analysis
 1.	Vehicle counts:
+
+![Create Table](https://github.com/bamidelestephen/URBAN-TRAFFIC-/blob/main/Assets/Image/QUESTION%201%20TRAFFIC.JPG)
  
 From the Pivot Table, Car has the least number while Autonomous vehicle has the highest number of vehicle count.
 
